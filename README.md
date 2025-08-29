@@ -123,7 +123,10 @@ cpp side
 * Dataset currently lacks multi-source diversity per class → fell back to stratified split.
 
 ---
+**🎥 Demo**
 
+[Youtube Video](https://www.youtube.com/watch?v=8fl_OHK0yhM&feature=youtu.be)
+---
 ## ⚠️ Notes
 
 * Snippet size and FSM thresholds trade off **latency vs. stability**.
