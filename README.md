@@ -89,7 +89,7 @@ cpp side
 ## 🔧 Requirements
 
  ```bash
-   python pip install requirement.txt
+  pip install -r requirements.txt
   ````
 * Raspberry Pi Pico SDK (for firmware build)
 
