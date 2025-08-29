@@ -136,6 +136,26 @@ cpp side
 
 ---
 
+
+## 📚 Blog Series
+
+This repository is documented in a 3-part blog series:
+
+- **Part 1 — Data Gathering & Preprocessing**  
+  [Part 1](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-1-collecting-and-preparing-the-dataset-moo)
+  How raw audio (YouTube, Freesound, recordings) was cut into balanced snippets and prepared for training.
+
+- **Part 2 — Feature Extraction & Training**  
+  [Part 2](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-2-feature-extraction-training-4bli)  
+  How we extracted 33-dim features (Goertzel bands + spectral stats) and trained a multinomial Logistic Regression model.
+
+- **Part 3 — Deployment on Pico & Demo**  
+  [Part 3](https://dev.to/ertugrulmutlu/building-an-edge-ai-sound-classifier-part-3-pico-firmware-live-demo-571g)  
+  How we exported model weights, wrote C++ firmware, built the FSM, and ran a live demo on Raspberry Pi Pico.  
+
+---
+
+
 ## 📜 License
 
 MIT License — feel free to use and adapt.
